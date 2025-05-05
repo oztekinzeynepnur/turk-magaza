@@ -53,4 +53,4 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 👥 Yazarlar
 
-- İsminiz - [[@github-username](https://github.com/your-username)](https://github.com/oztekinzeynepnur)
+- Zeynep Nur Öztekin - [[@github-username](https://github.com/your-username)](https://github.com/oztekinzeynepnur)
